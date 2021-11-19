@@ -1,0 +1,27 @@
+***** TEAM A *****
+
+Shot Distributions: 
+
+2PT: 0.60714286
+NC3: 0.32142857
+C3: 0.07142857 
+
+Effective Field Goal Percentages: 
+
+2PT: 0.4
+NC3: 0.48333333
+C3: 0.6 
+
+***** TEAM B *****
+
+Shot Distributions: 
+
+2PT: 0.58214286
+NC3: 0.34285714
+C3: 0.075 
+
+Effective Field Goal Percentages: 
+
+2PT: 0.4601227
+NC3: 0.546875
+C3: 0.35714286
